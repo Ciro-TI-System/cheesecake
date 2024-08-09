@@ -10,7 +10,7 @@ Cheesecake
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <img src=".github/Mobile.png" width="200px" height="400px" style="margin-right: 10px;">
-  <img src=".github/Desktop.png" width="700px" height="400px">
+  <img src=".github/Desktop.png" width="600px" height="400px">
 </div>
 
 <br>
