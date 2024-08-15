@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/e2H6TDg2k8jTl8IOrQ6zcD/Cheesecake-%E2%80%A2-Projeto-Explorer-(Community)?node-id=113-93&t=LSOp5v6rExA7QheS-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1256354643188696521). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
 
